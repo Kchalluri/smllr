@@ -1,0 +1,15 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore system files
+.DS_Store
+
+# Ignore downloaded models/data
+__pycache__/
+*.pyc
+nltk_data/
+glove.6B/
+*.zip
+*.tar.gz
+
+data/glove.6B.100d.txt
